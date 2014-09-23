@@ -1,0 +1,109 @@
+\contentsline {chapter}{Title}{i}
+\contentsline {chapter}{Abstract}{ii}
+\contentsline {chapter}{Acknowledgement}{iii}
+\contentsline {chapter}{List of Figures}{iv}
+\contentsline {chapter}{List of Tables}{v}
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {1.1}Problem and Motivation}{1}
+\contentsline {paragraph}{Bandwidth}{2}
+\contentsline {paragraph}{Storage}{2}
+\contentsline {paragraph}{Runtime}{2}
+\contentsline {paragraph}{Principle of least privilege}{2}
+\contentsline {paragraph}{Collusion-resistant}{2}
+\contentsline {paragraph}{Expressiveness}{2}
+\contentsline {section}{\numberline {1.2}Objective}{2}
+\contentsline {section}{\numberline {1.3}Contributions}{3}
+\contentsline {chapter}{\numberline {2}Related work}{4}
+\contentsline {section}{\numberline {2.1}GGM Tree}{4}
+\contentsline {subsection}{\numberline {2.1.1}GGM Construction}{4}
+\contentsline {subsection}{\numberline {2.1.2}Evaluation}{5}
+\contentsline {section}{\numberline {2.2}Attribute-Based Encryption}{5}
+\contentsline {subsection}{\numberline {2.2.1}Ciphertext-Policy ABE}{6}
+\contentsline {subsection}{\numberline {2.2.2}Key-Policy ABE}{7}
+\contentsline {subsection}{\numberline {2.2.3}Realization of ABE}{7}
+\contentsline {subsection}{\numberline {2.2.4}ABE Operations and Structures}{8}
+\contentsline {subsection}{\numberline {2.2.5}Bilinear Map}{8}
+\contentsline {subsection}{\numberline {2.2.6}Monotonic Access Schemes}{8}
+\contentsline {subsection}{\numberline {2.2.7}Range Comparison}{9}
+\contentsline {subsection}{\numberline {2.2.8}Evaluation}{9}
+\contentsline {subsection}{\numberline {2.2.9}Multi-message Ciphertext Policy ABE}{10}
+\contentsline {section}{\numberline {2.3}Multi-dimensional Range Query over Encrypted Data}{11}
+\contentsline {subsection}{\numberline {2.3.1}MRQED for multiple dimensions}{11}
+\contentsline {subsection}{\numberline {2.3.2}Evaluation}{12}
+\contentsline {section}{\numberline {2.4}Key-Aggregate Cryptosystem}{13}
+\contentsline {subsection}{\numberline {2.4.1}Realization of KAC}{13}
+\contentsline {subsection}{\numberline {2.4.2}Key Extension}{14}
+\contentsline {subsection}{\numberline {2.4.3}Evaluation}{15}
+\contentsline {chapter}{\numberline {3}Security Model}{16}
+\contentsline {section}{\numberline {3.1}Entities}{16}
+\contentsline {paragraph}{Public Cloud (RC)}{16}
+\contentsline {paragraph}{Key Granter (KG)}{16}
+\contentsline {paragraph}{Data Owner (DO)}{16}
+\contentsline {paragraph}{Authorized User (AU)}{16}
+\contentsline {section}{\numberline {3.2}Interactions}{17}
+\contentsline {paragraph}{Synthesis}{17}
+\contentsline {paragraph}{Upload}{17}
+\contentsline {paragraph}{Retrieval}{17}
+\contentsline {paragraph}{Key Distribution}{17}
+\contentsline {section}{\numberline {3.3}Performance Requirements}{18}
+\contentsline {paragraph}{KG Bandwidth}{18}
+\contentsline {paragraph}{KG Storage}{18}
+\contentsline {paragraph}{RC Bandwidth/Storage}{18}
+\contentsline {paragraph}{Encryption/Decryption Time}{18}
+\contentsline {section}{\numberline {3.4}Security Requirements}{18}
+\contentsline {paragraph}{Unauthorized data access}{19}
+\contentsline {paragraph}{Malicious/Spoofed RC}{19}
+\contentsline {paragraph}{KG Spoofing}{19}
+\contentsline {paragraph}{Collusion-resistant}{19}
+\contentsline {chapter}{\numberline {4}Preliminary Analysis}{20}
+\contentsline {section}{\numberline {4.1}Space Requirements}{20}
+\contentsline {subsection}{\numberline {4.1.1}Meta-Key}{20}
+\contentsline {subsection}{\numberline {4.1.2}KG -- Private Storage}{21}
+\contentsline {subsection}{\numberline {4.1.3}RC -- Public Storage}{22}
+\contentsline {section}{\numberline {4.2}Runtime}{23}
+\contentsline {subsection}{\numberline {4.2.1}Setup}{23}
+\contentsline {subsection}{\numberline {4.2.2}Encryption}{23}
+\contentsline {subsection}{\numberline {4.2.3}Meta-key Generation}{24}
+\contentsline {subsection}{\numberline {4.2.4}Decryption}{25}
+\contentsline {section}{\numberline {4.3}Conclusion}{25}
+\contentsline {chapter}{\numberline {5}Proposed System}{27}
+\contentsline {section}{\numberline {5.1}KAC-GGM Hybrid}{27}
+\contentsline {subsection}{\numberline {5.1.1}Fixed Chunking}{27}
+\contentsline {subsection}{\numberline {5.1.2}Variable Chunking}{28}
+\contentsline {section}{\numberline {5.2}KAC Decryption Optimizations}{30}
+\contentsline {subsection}{\numberline {5.2.1}Decryption under same $K_S$}{30}
+\contentsline {subsection}{\numberline {5.2.2}Optimization for varying frame rates}{30}
+\contentsline {section}{\numberline {5.3}Homomorphic MAC}{31}
+\contentsline {subsection}{\numberline {5.3.1}Verification Protocol}{32}
+\contentsline {paragraph}{Signing}{32}
+\contentsline {paragraph}{Computation}{33}
+\contentsline {paragraph}{Verification}{33}
+\contentsline {section}{\numberline {5.4}Provisioning for Layered Content}{33}
+\contentsline {subsection}{\numberline {5.4.1}Layered Symmetric Encryption}{34}
+\contentsline {chapter}{\numberline {6}Analysis}{36}
+\contentsline {section}{\numberline {6.1}KAC-GGM Hybrid}{36}
+\contentsline {subsection}{\numberline {6.1.1}Fixed Chunking}{36}
+\contentsline {subsection}{\numberline {6.1.2}Variable Chunking}{37}
+\contentsline {section}{\numberline {6.2}KAC Decryption Optimization}{39}
+\contentsline {section}{\numberline {6.3}Homomorphic MAC}{40}
+\contentsline {subsection}{\numberline {6.3.1}Security}{40}
+\contentsline {subsection}{\numberline {6.3.2}Efficiency}{42}
+\contentsline {section}{\numberline {6.4}Layered Symmetric Encryption}{44}
+\contentsline {section}{\numberline {6.5}Summary}{44}
+\contentsline {subsection}{\numberline {6.5.1}Interactions}{44}
+\contentsline {paragraph}{Synthesis}{44}
+\contentsline {paragraph}{Upload}{44}
+\contentsline {paragraph}{Retrieval}{44}
+\contentsline {paragraph}{Key Distribution}{44}
+\contentsline {subsection}{\numberline {6.5.2}Performance Requirements}{45}
+\contentsline {paragraph}{KG Bandwidth}{45}
+\contentsline {paragraph}{KG Storage}{45}
+\contentsline {paragraph}{DO Storage}{45}
+\contentsline {paragraph}{Encryption/Decryption Time}{45}
+\contentsline {subsection}{\numberline {6.5.3}Security Requirements}{45}
+\contentsline {paragraph}{Unauthorized data access}{45}
+\contentsline {paragraph}{Malicious/Spoofed RC}{45}
+\contentsline {paragraph}{KG Spoofing}{45}
+\contentsline {paragraph}{Collusion-resistant}{46}
+\contentsline {chapter}{\numberline {7}Conclusion}{47}
+\contentsline {chapter}{References}{48}

@@ -1,0 +1,19 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces KP-ABE algorithms\relax }}{8}
+\contentsline {table}{\numberline {2.2}{\ignorespaces KAC algorithms\relax }}{13}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces KG storage requirements\relax }}{21}
+\contentsline {table}{\numberline {4.2}{\ignorespaces RC storage requirements\relax }}{22}
+\contentsline {table}{\numberline {4.3}{\ignorespaces Running complexity for the setting up of parameters\relax }}{23}
+\contentsline {table}{\numberline {4.4}{\ignorespaces Encryption complexity per frame\relax }}{23}
+\contentsline {table}{\numberline {4.5}{\ignorespaces Meta-key generation complexity (Contiguous Range)\relax }}{24}
+\contentsline {table}{\numberline {4.6}{\ignorespaces Decryption complexity per frame\relax }}{25}
+\contentsline {table}{\numberline {4.7}{\ignorespaces Summary of storage and runtime requirements\relax }}{26}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {6.1}{\ignorespaces Storage comparison between KAC and KAC-GGM (Fixed Chunking)\relax }}{36}
+\contentsline {table}{\numberline {6.2}{\ignorespaces Decryption complexity (Contiguous $S,Q$, arithmetic sequences of $d=1$)\relax }}{39}
+\contentsline {table}{\numberline {6.3}{\ignorespaces Runtime complexity of the verification protocol\relax }}{43}
+\addvspace {10\p@ }

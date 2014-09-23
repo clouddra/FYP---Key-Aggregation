@@ -1,0 +1,87 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citename{Akinyele}{Garman, Miers, Pagano, Rushanan,
+  Green}{Rubin}{AkinyeleETAL}{2013}{charm13}]{charm13}
+Akinyele, J.~A., Garman, C., Miers, I., Pagano, M.~W., Rushanan, M., Green, M.,
+  \& Rubin, A.~D. (2013).
+\newblock Charm: a framework for rapidly prototyping cryptosystems.
+\newblock {\em Journal of Cryptographic Engineering}, {\em 3\/}(2), 2013,
+  111--128.
+
+\bibitem[\protect\citename{Bethencourt}{h.~Hubert~Chan, Perrig,
+  Shi}{Song}{BethencourtETAL}{2006}{Bethencourt06anonymousmultiattribute}]{Bethencourt06anonymousmultiattribute}
+Bethencourt, J., h.~Hubert~Chan, T., Perrig, A., Shi, E., \& Song, D. (2006).
+\newblock Anonymous multiattribute encryption with range query and conditional
+  decryption.
+\newblock {\em Security and Privacy, 2006. SP'06. IEEE Symposium on}, 2006.
+
+\bibitem[\protect\citename{Bethencourt}{Sahai}{Waters}{BethencourtETAL}{2007}{bethencourt2007ciphertext}]{bethencourt2007ciphertext}
+Bethencourt, J., Sahai, A., \& Waters, B. (2007).
+\newblock Ciphertext-policy attribute-based encryption.
+\newblock {\em Security and Privacy, 2007. SP'07. IEEE Symposium on} (pp.\
+  321--334), IEEE, 2007.
+
+\bibitem[\protect\citename{Chu}{Chow, Tzeng,
+  Zhou}{Deng}{ChuETAL}{2013}{chu2013key}]{chu2013key}
+Chu, C., Chow, S., Tzeng, W., Zhou, J., \& Deng, R. (2013).
+\newblock Key-aggregate cryptosystem for scalable data sharing in cloud
+  storage.
+\newblock {\em Parallel and Distributed Systems, IEEE Transactions on}, Vol.~PP
+  (pp.\ 1--1), 2013.
+
+\bibitem[\protect\citename{Goldreich}{Goldwasser}{Micali}{GoldreichETAL}{1986}{Goldreich1986}]{Goldreich1986}
+Goldreich, O., Goldwasser, S., \& Micali, S. (1986).
+\newblock How to construct random functions.
+\newblock Vol.~33 (pp.\ 792--807), New York, NY, USA, August, 1986: ACM.
+
+\bibitem[\protect\citename{Goyal}{Pandey,
+  Sahai}{Waters}{GoyalETAL}{2006}{goyal2006attribute}]{goyal2006attribute}
+Goyal, V., Pandey, O., Sahai, A., \& Waters, B. (2006).
+\newblock Attribute-based encryption for fine-grained access control of
+  encrypted data.
+\newblock {\em Proceedings of the 13th ACM conference on Computer and
+  communications security} (pp.\ 89--98), ACM, 2006.
+
+\bibitem[\protect\citename{Kamara}{}{Lauter}{Kamara-Lauter}{2010}{kamara2010cryptographic}]{kamara2010cryptographic}
+Kamara, S., \& Lauter, K. (2010).
+\newblock Cryptographic cloud storage.
+\newblock In {\em Financial cryptography and data security} (pp.\ 136--149).
+
+\bibitem[\protect\citename{Lewko}{Sahai}{Waters}{LewkoETAL}{2010}{lewko2010revocation}]{lewko2010revocation}
+Lewko, A., Sahai, A., \& Waters, B. (2010).
+\newblock Revocation systems with very small private keys.
+\newblock {\em Security and Privacy, 2010. SP'10 IEEE Symposium on} (pp.\
+  273--285), IEEE, 2010.
+
+\bibitem[\protect\citename{Ostrovsky}{Sahai}{Waters}{OstrovskyETAL}{2007}{ostrovsky2007attribute}]{ostrovsky2007attribute}
+Ostrovsky, R., Sahai, A., \& Waters, B. (2007).
+\newblock Attribute-based encryption with non-monotonic access structures.
+\newblock {\em Proceedings of the 14th ACM conference on Computer and
+  communications security} (pp.\ 195--203), ACM, 2007.
+
+\bibitem[\protect\citename{Sahai}{}{Waters}{Sahai-Waters}{2005}{sahai2005fuzzy}]{sahai2005fuzzy}
+Sahai, A., \& Waters, B. (2005).
+\newblock Fuzzy identity-based encryption.
+\newblock In {\em Advances in cryptology--eurocrypt 2005} (pp.\ 457--473).
+
+\bibitem[\protect\citename{Shi}{Bethencourt, Chan,
+  Song}{Perrig}{ShiETAL}{2007}{shi2007multi}]{shi2007multi}
+Shi, E., Bethencourt, J., Chan, T.-H., Song, D., \& Perrig, A. (2007).
+\newblock Multi-dimensional range query over encrypted data.
+\newblock {\em Security and Privacy, 2007. SP'07. IEEE Symposium on} (pp.\
+  350--364), IEEE, 2007.
+
+\bibitem[\protect\citename{Waters}{}{}{Waters}{2011}{waters2011ciphertext}]{waters2011ciphertext}
+Waters, B. (2011).
+\newblock Ciphertext-policy attribute-based encryption: An expressive,
+  efficient, and provably secure realization.
+\newblock {\em Public Key Cryptography--PKC} (pp.\ 53--70), 2011.
+
+\bibitem[\protect\citename{Wu}{Wei}{Deng}{WuETAL}{2013}{2013scalable}]{2013scalable}
+Wu, Y., Wei, Z., \& Deng, R. (2013).
+\newblock Attribute-based access to scalable media in cloud-assisted content
+  sharing networks.
+\newblock {\em Multimedia, IEEE Transactions on}, Vol.~15 (pp.\ 778--788),
+  2013.
+
+\end{thebibliography}

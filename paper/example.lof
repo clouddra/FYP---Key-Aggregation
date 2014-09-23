@@ -1,0 +1,33 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces GGM tree\relax }}{5}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Releasing keys for $[2, 4]$\relax }}{5}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Access Tree with \textbf {AND}, \textbf {OR} gates\relax }}{6}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Access Tree with threshold gates\relax }}{7}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Policy tree for $x<10$\relax }}{9}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces MCP-ABE access tree\relax }}{10}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Encryption under MRQED\relax }}{11}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Collusion Problem\relax }}{12}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces KAC key extension\relax }}{14}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Interactions between entities\relax }}{17}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Meta-key size\relax }}{21}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces KG Storage\relax }}{21}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces RC storage\relax }}{22}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Setup $+$ Encryption time\relax }}{24}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Meta-key generation time (contiguous range)\relax }}{25}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Decryption Time\relax }}{25}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces KAC-GGM hybrid structure\relax }}{28}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Generalization of construction shown in \cref {fig:kac-hash-tree}\relax }}{29}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Generalized KAC-GGM (All GGM nodes are encrypted under KAC)\relax }}{29}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Layered hashing\relax }}{34}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Layered encryption using intermediate layers\relax }}{35}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Empirical results of KAC-GGM\relax }}{37}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Monolithic KAC-GGM decryption time\relax }}{38}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Generalized KAC-GGM with $\phi = 2$\relax }}{39}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Optimized KAC (Speedup $= S^{1.99}/S^{1} \approx S$) \relax }}{40}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Homomorphic MAC $K_G$ generation time\relax }}{43}
+\addvspace {10\p@ }
