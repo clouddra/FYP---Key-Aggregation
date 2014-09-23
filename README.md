@@ -9,4 +9,4 @@ Based on the paper [KAC: Key-Aggregate Cryptosystem for Scalable Encrypted Data 
 
 Read the **report.pdf** in /paper for more details.
 
-Built using [Charm crypto framework] (http://www.charm-crypto.com/Main.html).
+Built using [Charm](http://www.charm-crypto.com/Main.html)  crypto framework.
